@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CesarTheKaos.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 💞️ I’m looking to collaborate on a proyecto to learn more.
+- 💞️ I’m looking to collaborate on a proyect to learn more.
 - 📫 How to reach me ...
 
 <!---
